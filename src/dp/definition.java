@@ -17,10 +17,12 @@ two ways to perform DP
     -storage
 
 to do tabulation
-    -initialize
-    -memory
+    -initialize(base case)
+    -meaning of the index
     -filling the table small to big
-
+the table is created based on how many variables are changing the
+result.
+the table can be an array, matrix, hashmap anything
 
 
  */
