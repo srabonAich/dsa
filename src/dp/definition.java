@@ -25,6 +25,11 @@ result.
 the table can be an array, matrix, hashmap anything
 
 
+to do memoization
+    -1:create an array
+    -2:before returning add the ans to dp array
+    -3:check if the value for an index is pre computed or not.
+
  */
 
 
