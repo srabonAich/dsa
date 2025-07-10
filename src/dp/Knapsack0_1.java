@@ -70,6 +70,7 @@ maximum koto profit ber hobe.
             else  // invalid
 
 
+Time complexity n*W
  */
 public class Knapsack0_1 {
     public static int knapsack(int[]val,int[]wt,int W,int n){
